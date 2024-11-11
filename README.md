@@ -1,9 +1,9 @@
 # sql_pizza_sales_project
 
-project overview 
-project title : pizza_sales
-level : beginner
-Database: p1_sales_db
+###project overview 
+###project title : pizza_sales
+###level : beginner
+###Database: p1_sales_db
 
 
 This repository contains a set of SQL queries designed for analyzing data related to pizza orders. The queries are intended to provide valuable insights such as the total number of orders, total revenue, most ordered pizza types, and more. This README outlines each SQL query and its intended purpose.
